@@ -1,2 +1,2 @@
-# IntensityEstimation-on-Linear-Networks
+# Intensity Estimation on Linear Networks
 Research Project;

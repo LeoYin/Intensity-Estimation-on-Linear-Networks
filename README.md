@@ -17,6 +17,8 @@ The availability of large spatial data geocoded at accurate locations has fueled
  ## Brief Introduction to the Project
  ### Data Description
 
+The Figure below show the road structure in the state of Western Australia and the locations of 14,562 traffic accidentsin 2011;
+ ![image](Figures/PerthFull.png)
  
  ### Project Aim
  To detect the propability of event occurrence on linear network structure;
@@ -32,3 +34,6 @@ The availability of large spatial data geocoded at accurate locations has fueled
  
  
  ### Results
+ 
+ The Figure below show the estimated risk (intensity function) of traffic accidents along the road in the state of Western Australia;
+ ![image](Figures/PerthZoomFF.png)

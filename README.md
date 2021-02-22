@@ -17,7 +17,7 @@ The availability of large spatial data geocoded at accurate locations has fueled
  ## Brief Introduction to the Project
  ### Data Description
 
-The Figure below show the road structure in the state of Western Australia and the locations of 14,562 traffic accidentsin 2011;
+The Figure below shows the road structure in the state of Western Australia and the locations of 14,562 traffic accidentsin 2011;
  ![image](Figures/PerthFull.png)
  
  ### Project Aim

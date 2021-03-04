@@ -26,7 +26,7 @@ The Figure below shows the road structure in the state of Western Australia and 
  To apply the proposed method to investigate the occurrence of traffic accidents along the road networks;
  
  ### Methodology
- Proposed a Poisson regression model with spatially varying parameters, to model the intensity functions on linear networks;
+ Proposed a Poisson regression model with spatially varying parameters, to model the spatial event occurrence on linear networks;
  
  Proposed a optimization problem with graphic fused Lasso penaly to fit the proposed model;
  

@@ -1,11 +1,9 @@
-# Intensity Estimation on Linear Networks
+# Fused Spatial Point Process IntensityEstimation on Complex Domains
 Research Project;
 
 Project Status: Completed;
 
 Introduction to the paper "Fused Spatial Point Process IntensityEstimation on Complex Domains", [link of the paper](https://arxiv.org/abs/2102.11157)
-
-which is under review in *Journal of Computatioanl and Graphic Statistics*
 
 Auther: Lihao Yin(the first auther), Huiyan Sang;
 
